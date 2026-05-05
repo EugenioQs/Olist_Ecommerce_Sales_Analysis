@@ -49,6 +49,12 @@ Full pipeline: data cleaning in Python → business metrics in SQL → interacti
 
 ---
 
+## Pipeline Architecture
+
+![Pipeline Architecture](assets/pipeline_architecture.png)
+
+---
+
 ## Tech Stack
 
 | Layer | Tools |

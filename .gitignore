@@ -2,6 +2,7 @@
 CLAUDE.md
 .claude/
 .atl/
+powerbi/dashboard_spec.md
 
 # Power BI binary
 powerbi/*.pbix
