@@ -1,0 +1,27 @@
+# Internal
+CLAUDE.md
+.claude/
+.atl/
+
+# Power BI binary
+powerbi/*.pbix
+
+# Raw data — too large for git
+data/raw/
+data/processed/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
